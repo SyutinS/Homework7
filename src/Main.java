@@ -85,7 +85,7 @@ public class Main {
 
     public static void task10() {
         System.out.println("Задача 10");
-        int multiplierOne = 5;
+        int multiplierOne = 2;
         int multiplierTwo = 1;
         for (int i = 1; i <= 10; i = i+1) {
             multiplierTwo = multiplierOne * i;
